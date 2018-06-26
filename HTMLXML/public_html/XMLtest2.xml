@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE Text [
+<!ELEMENT Text (#PCDATA)>
+<!ENTITY ich "Vadim Vlasov">
+]>
+
+<Text>
+   Hallo ich bin &ich;! 
+</Text>

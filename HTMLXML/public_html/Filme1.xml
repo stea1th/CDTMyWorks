@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Filme1.xsd" generated="2018-05-04T10:00:01">
+<Filme>
+<ID>1</ID>
+<titel>Das kreischen der Hammel</titel>
+<genre>6</genre>
+<sprache>deutch</sprache>
+<erscheinungsjahr>2002</erscheinungsjahr>
+<spiellaenge>100</spiellaenge>
+<darsteller>Harald Lichter, Helen Maus, Clara Korn</darsteller>
+</Filme>
+<Filme>
+<ID>2</ID>
+<titel>Der mit dem Wiesel steppt</titel>
+<genre>2</genre>
+<sprache>englisch</sprache>
+<erscheinungsjahr>2014</erscheinungsjahr>
+<spiellaenge>120</spiellaenge>
+<darsteller>Bibi Blocksberg, Till Hagen</darsteller>
+</Filme>
+<Filme>
+<ID>3</ID>
+<titel>Das Geheimnis</titel>
+<genre>4</genre>
+<sprache>deutsch</sprache>
+<erscheinungsjahr>2011</erscheinungsjahr>
+<spiellaenge>888</spiellaenge>
+<darsteller>Thea Taler, Joachim Feigmann</darsteller>
+</Filme>
+<Filme>
+<ID>4</ID>
+<titel>All around</titel>
+<genre>5</genre>
+<sprache>deutsch</sprache>
+<erscheinungsjahr>2013</erscheinungsjahr>
+<spiellaenge>90</spiellaenge>
+<darsteller>Geo Klauni, Otto Belix</darsteller>
+</Filme>
+<Filme>
+<ID>7</ID>
+<titel>Im Bus</titel>
+<genre>5</genre>
+<sprache>deutsch</sprache>
+<erscheinungsjahr>2014</erscheinungsjahr>
+<spiellaenge>87</spiellaenge>
+<darsteller>K. Fee, Jerome Mask</darsteller>
+</Filme>
+</dataroot>

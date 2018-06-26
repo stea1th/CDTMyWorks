@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"? standalone="no"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE musiksammlung SYSTEM "meine1.dtd">
+<?xml-stylesheet type="text/css" href="music.css"?>
+<!ELEMENT musiksammlung (album)>
+<!ELEMENT album (autor, (interpret | gruppe), titel, lied)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT interpret (#PCDATA)>
+<!ELEMENT gruppe (#PCDATA)>
+<!ELEMENT titel (#PCDATA)>
+<!ELEMENT lied (#PCDATA)>
+
+<musiksammlung>
+    <album>
+        <autor></autor>
+        <interpret></interpret>
+        <gruppe></gruppe>
+        <titel></titel>
+        <lied></lied>
+    </album>
+</musiksammlung>
+    
+    
+

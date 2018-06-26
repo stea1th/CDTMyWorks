@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href=./vlasov.css"?>
+
+<root>
+    <Gruss>Es grüssen Hanni und Nanni<![CDATA[<<<<<Es grüssen>>>>>Bubsi und Schmutzi]]></Gruss>  
+    <vorname>Vadim</vorname>
+    <nachname>Vlasov</nachname>
+    <Perso>
+        <FiAE nachname="Vlasov" geschlecht="m">Vadim Vlasov</FiAE>
+        <FiAE nachname="Lynen" geschlecht="w">Tanja Lynen</FiAE>
+        <FiSi nachname="Bozhedomov" geschlecht="m">Boris Bozhedomov</FiSi>
+        <FiSi nachname="Graff" geschlecht="w">Steffi Graff</FiSi>
+    </Perso>
+</root>

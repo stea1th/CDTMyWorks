@@ -1,0 +1,29 @@
+ID, titel, sprache, genre,erscheinungsjahr,spiellaenge, darsteller {
+        display:block;
+        }
+        body {
+        background-color:white;
+        width: 100%;
+        display: -moz-box;
+        display: -webkit-box;
+        -moz-box-pack: center;
+        -weblit-box-pack: center;
+        border:2px;
+        border-style:solid;
+        border-color:SlateGray;
+        }
+ID {
+   color: Fuchsia;
+   text-align: left;
+   font: 10px verdana, sans-serif;
+}
+titel{
+   color:green;
+   text-align: left;
+   font: bold 14px verdana, sans-serif;
+}
+sprache, genre,erscheinungsjahr,spiellaengedarsteller {
+   color: Black;
+   text-align: left;
+   font: 12px verdana, sans-serif;
+}
